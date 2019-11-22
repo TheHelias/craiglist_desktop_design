@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.scss';
 import {SearchOutlined, Texture, ControlPoint, NotificationsOutlined,  EventNoteOutlined, PieChartOutlined, ForumOutlined, PeopleOutlineOutlined, HomeOutlined, WorkOutline, ShoppingCartOutlined, AccountCircleOutlined, LocalShippingOutlined } from '@material-ui/icons';
 
 function App() {
